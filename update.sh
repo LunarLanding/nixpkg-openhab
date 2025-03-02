@@ -1,5 +1,5 @@
 #!/usr/bin/env nix-shell
-#!nix-shell -i bash -p curl jq ripgrep gawk
+#!nix-shell -i bash -p curl jq ripgrep gawk git
 
 set -eux
 set -o pipefail
